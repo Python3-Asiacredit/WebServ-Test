@@ -6,3 +6,4 @@
 
 ## Цель 
 Цель - тест работы стандартных библиотек языка для работы с сервисом по выгрузке документов из кредитного модуля клиента. 
+![Image alt](https://github.com/Python3-Asiacredit/WebServ-Test/raw/master/./Hello_World.png)
